@@ -44,7 +44,7 @@
 |:-----:|:-----:|
 | **EA Platform 아키텍처** | **KOREN backbone network** |
 
-<br><br>
+<br>
 
 ### 결과물
 - 
